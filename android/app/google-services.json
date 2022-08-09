@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064694318732",
+    "project_id": "my-test-app-flavors-production",
+    "storage_bucket": "my-test-app-flavors-production.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064694318732:android:79867886446a800f575da9",
+        "android_client_info": {
+          "package_name": "com.codewithandrea.my_test_app_flavors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064694318732-dotirqrnrv84auvmotaas0442b4jlmap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKK0-I63OzSU-sk_FiEOzO6RFnK5PeALc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064694318732-dotirqrnrv84auvmotaas0442b4jlmap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

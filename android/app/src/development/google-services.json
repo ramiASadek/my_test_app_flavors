@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "245775840332",
+    "project_id": "my-test-app-flavors-devel",
+    "storage_bucket": "my-test-app-flavors-devel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245775840332:android:f3ae64e4721c3b6ddef0e9",
+        "android_client_info": {
+          "package_name": "com.codewithandrea.my_test_app_flavors.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245775840332-2jp21kgpsmo2s2uh46a9us79s5g25a17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsEO2c17yKKZcrVBHGF-Fq3OJ_6g5Eh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245775840332-2jp21kgpsmo2s2uh46a9us79s5g25a17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "245775840332-g8dps4u7uvcvtpn4pb51fap2uivsnih1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codewithandrea.my-test-app-flavors.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
